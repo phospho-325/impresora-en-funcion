@@ -72,12 +72,3 @@ Este proyecto es un script de Python que automatiza la impresión de imágenes s
 
 - Asegúrate de que la impresora predeterminada esté configurada correctamente en tu sistema.
 - Si encuentras errores relacionados con las imágenes o la impresora, verifica los permisos de acceso a la carpeta y los controladores de la impresora.
-
-## Contribuciones
-
-Si tienes sugerencias o mejoras para este proyecto, no dudes en hacer un fork del repositorio y enviar un pull request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
